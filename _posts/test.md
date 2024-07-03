@@ -1,5 +1,5 @@
 ----
 layout: single
-title: 을 적습니다.
+title: "제목"
 ----
-테스트
+# 테스트
