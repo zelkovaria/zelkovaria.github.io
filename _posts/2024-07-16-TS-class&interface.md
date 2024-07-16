@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "TypeScript 기초 이론 정리"
+title: "TypeScript 추상클래스와 인터페이스"
 categories: TypeScript
 tag: [TS, front-end, 타입스크립트, class, interface, 인터페이스]
 sidebar:
