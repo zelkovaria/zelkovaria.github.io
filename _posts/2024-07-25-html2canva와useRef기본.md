@@ -3,6 +3,8 @@ layout: single
 title: "html2canvas 웹화면캡쳐와 useRef 기본"
 categories: React
 tag: [WEB, front-end, React, 리액트, html2canvas, useRef, 웹화면캡쳐]
+sidebar:
+  nav: "counts"
 ---
 
 # html2canvas를 사용한 웹 화면 캡쳐하기
