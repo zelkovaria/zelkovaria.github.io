@@ -1,3 +1,23 @@
+---
+layout: single
+title: "index signature와 Record type"
+categories: TypeScript
+tag:
+  [
+    WEB,
+    front-end,
+    TS,
+    TypeScript,
+    타입스크립트,
+    type,
+    record type,
+    index signature,
+    type narrowing,
+  ]
+sidebar:
+  nav: "counts"
+---
+
 # index signature와 Record type
 
 리팩토링을 하던 도중 아래의 사진처럼 <span style="color: #859f92; font-weight: bold;">~형식의 매개 변수가 포함된 인덱스 시그니처를 찾을 수 없습니다</span>라는 에러가 떴었다. 즉, 인덱스 형식의 사용이 불가능 하다는 소리였다
