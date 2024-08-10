@@ -54,7 +54,7 @@ sidebar:
 
 ## 오잉, 그럼 대체 왜 쓰냐!
 
-![image](https://github.com/user-attachments/assets/2b27a5ee-0004-4310-a11f-3d59f70e4ea5)
+<img src="https://github.com/user-attachments/assets/2b27a5ee-0004-4310-a11f-3d59f70e4ea5" width="600">
 
 커스텀 도메인을 쓰는 이유는 결국 아래와 같다 <Br/>
 → https 사용(걸기 위해)<br/>
