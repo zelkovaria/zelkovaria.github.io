@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "index signature와 Record type"
+title: "트러블슈팅)index signature와 Record type"
 categories: TypeScript
 tag:
   [
