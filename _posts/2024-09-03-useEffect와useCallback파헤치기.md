@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "useEffect와 useCallback 그리고 무한 렌더링 파헤치기"
+title: "트러블슈팅) useEffect와 useCallback 그리고 무한 렌더링 파헤치기"
 categories: React
 tag:
   [
