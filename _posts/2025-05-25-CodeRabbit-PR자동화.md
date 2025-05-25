@@ -1,3 +1,12 @@
+---
+layout: single
+title: "Code Rabbit으로 PR 자동 리뷰 시작하기"
+categories: ETC
+tag: [Code Rabbit, PR, 코드 리뷰, 코드 래빗, Pull Request]
+sidebar:
+  nav: "counts"
+---
+
 ## 개요
 
 본 포스팅에서는 Code Rabbit을 활용하여 GitHub Pull Request에 대한 자동 리뷰를 설정하고, 팀 컨벤션에 맞춘 코드 품질 피드백을 받을 수 있도록 초기 설정 방법을 안내를 위해 작성했습니다. 내용은 아래와 같습니다.
