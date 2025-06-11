@@ -5,6 +5,8 @@ categories: WEB
 tag: [WEB, front-end, 웹, HTTP, HTTPS, Vite, SSL, config, cert]
 sidebar:
   nav: "counts"
+header:
+  teaser: /assets/img/thumbnail/vite_https.png
 ---
 
 # Vite, SSL, 로컬에서 https 사용하기 레츠고 🏃‍♀️
