@@ -3,6 +3,8 @@ layout: single
 title: "Code Rabbit으로 PR 자동 리뷰 시작하기"
 categories: ETC
 tag: [Code Rabbit, PR, 코드 리뷰, 코드 래빗, Pull Request]
+header:
+  teaser: /assets/img/thumbnail/code_rabbit_thumbnail.png
 sidebar:
   nav: "counts"
 ---
