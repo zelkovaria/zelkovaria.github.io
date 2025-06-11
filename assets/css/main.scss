@@ -32,5 +32,6 @@ search: false
 
   .archive__item-teaser {
     height: fit-content;
+    max-height: none !important;
   }
 }
