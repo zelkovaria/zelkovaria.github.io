@@ -25,3 +25,8 @@ search: false
     grid-template-columns: repeat(1, 1fr);
   }
 }
+.grid_item {
+  max-width: none;
+  margin: 0;
+  width: 100%;
+}
