@@ -29,4 +29,8 @@ search: false
   max-width: none;
   margin: 0;
   width: 100%;
+
+  .archive__item-teaser {
+    height: fit-content;
+  }
 }
