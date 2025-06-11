@@ -15,6 +15,8 @@ tag:
     클로저,
     리렌더링,
   ]
+header:
+  teaser: /assets/img/thumbnail/react_thumbnail.png
 sidebar:
   nav: "counts"
 ---

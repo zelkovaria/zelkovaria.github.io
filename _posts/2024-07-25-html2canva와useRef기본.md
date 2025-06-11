@@ -3,6 +3,8 @@ layout: single
 title: "html2canvas 웹화면캡쳐와 useRef 기본"
 categories: React
 tag: [WEB, front-end, React, 리액트, html2canvas, useRef, 웹화면캡쳐]
+header:
+  teaser: /assets/img/thumbnail/react_thumbnail.png
 sidebar:
   nav: "counts"
 ---
