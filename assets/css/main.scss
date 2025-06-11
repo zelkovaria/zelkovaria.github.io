@@ -7,31 +7,3 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-.entries-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1.5rem;
-}
-
-@media screen and (max-width: 760px) and (min-width: 601px) {
-  .entries-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media screen and (max-width: 600px) {
-  .entries-grid {
-    grid-template-columns: repeat(1, 1fr);
-  }
-}
-.archive__item {
-  max-width: none;
-  margin: 0;
-  width: 100%;
-
-  .archive__item-teaser {
-    height: fit-content;
-    max-height: none !important;
-  }
-}
