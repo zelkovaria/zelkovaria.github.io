@@ -5,6 +5,8 @@ categories: TypeScript
 tag: [TS, front-end, 타입스크립트, class, interface, 인터페이스]
 sidebar:
   nav: "counts"
+header:
+  teaser: /assets/img/thumbnail/ts_thumbnail.png
 ---
 
 ### 추상클래스

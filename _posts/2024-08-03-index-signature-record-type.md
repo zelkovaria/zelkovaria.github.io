@@ -14,6 +14,8 @@ tag:
     index signature,
     type narrowing,
   ]
+header:
+  teaser: /assets/img/thumbnail/ts_thumbnail.png
 sidebar:
   nav: "counts"
 ---
