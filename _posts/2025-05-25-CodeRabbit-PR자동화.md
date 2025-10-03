@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Code Rabbit으로 PR 자동 리뷰 시작하기"
+title: "Code Rabbit으로 PR 자동 리뷰 시작하기 (feat. 리뷰 꿀팁)"
 categories: ETC
 tag: [Code Rabbit, PR, 코드 리뷰, 코드 래빗, Pull Request]
 header:
@@ -96,6 +96,14 @@ sidebar:
 - 리뷰 예시는 아래와 같습니다.
 
 ![image.png](/assets/img/CodeRabbit4.png)
+
+## 소소한 꿀팁 🍯
+
+- PR에 달린 코드래빗의 리뷰에 나의 생각, 의견을 남기면 이에 대해 또다시 리뷰를 남겨줍니다. 아래 예시의 사진처럼, 저도 가끔 궁금하거나 이해되지 않는 리뷰는 다시 댓글을 달아 티키타카를 주고 받아요.
+
+![image.png](/assets/img/CodeRabbit6.png)
+
+- PR에서 `@coderabbit` 직접 언급을 통해 원하는 질문이나 리뷰를 의도할 수 있어요.
 
 ## 마무리
 
