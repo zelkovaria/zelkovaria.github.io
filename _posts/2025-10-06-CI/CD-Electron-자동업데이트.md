@@ -1,3 +1,14 @@
+---
+layout: single
+title: "CI/CD를 통한 Electron 자동 업데이트(feat. CloudFlare R2) - macOS 기준"
+categories: React
+tag: [Electron, 일렉트론, 멀티플랫폼, 데스크탑 앱, 자동 업데이트, R2, React 앱]
+header:
+  teaser: /assets/img/thumbnail/electron_thumbnail.png
+sidebar:
+  nav: "counts"
+---
+
 # 서론: 목표와 전체 아키텍처
 
 > 본 프로젝트는 Electron 환경에서 웹사이트(React 기반)를 직접 loadURL()하는 구조입니다. 즉, 웹 관련 변경 사항은 웹 배포만으로도 바로 반영되지만, 데스크탑 앱 자체의 배포는 별개로 관리해야 했습니다.
